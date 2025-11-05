@@ -35,11 +35,11 @@ Backend (Drone) → WebSocket → useWebSocket Hook → State Management → UI 
 - **DroneCard:** Mission progress summary, progress bar, visible only during active missions  
 - **DroneDetailPanel:** Expanded view showing waypoint count, progress bar, and last update  
 
-![Mission Progress Bar Example](images/mission_progress_bar.png)  
+![Mission Progress Bar Example](bar.jpg)  
 *Example of mission progress bar in the UI*
 
-![Data Flow Diagram](images/data_flow_diagram.png)  
-*Simplified data flow from drone to UI*
+![Mission Details](detail.png)  
+*Mission details display*
 
 ## Implementation Highlights
 - Type-safe mission state management in TypeScript  
