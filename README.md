@@ -38,7 +38,7 @@ Backend (Drone) → WebSocket → useWebSocket Hook → State Management → UI 
 ![Mission Progress Bar Example](bar.jpg)  
 *Example of mission progress bar in the UI*
 
-![Mission Details](detail.png)  
+![Mission Details](detail.jpg)  
 *Mission details display*
 
 ## Implementation Highlights
